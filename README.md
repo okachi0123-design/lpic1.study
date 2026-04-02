@@ -1,1 +1,1 @@
-# lpic1.study
+# linux.study.log
