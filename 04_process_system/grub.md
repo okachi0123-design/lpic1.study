@@ -9,3 +9,7 @@
 - ブートローダ起動時
 
 ## Config File
+/boot/grub/grub.cfg
+## Kernel Parameters
+- カーネルにパラメーターを渡す
+- 起動時の動作を制御
